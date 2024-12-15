@@ -1,3 +1,6 @@
+
+//FOR ESP8266 WEMOS D1 Mini Pro
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
